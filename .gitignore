@@ -1,0 +1,16 @@
+# Dependências e Compilação
+/node_modules
+/dist
+/build
+
+# Logs e Cache
+npm-debug.log*
+.npm
+.eslintcache
+*.tsbuildinfo
+
+# Arquivos Sensíveis
+.env
+
+# Arquivos de Sistema
+.DS_Store
